@@ -1,6 +1,6 @@
 module.exports = {
     url: {
-        git: "https://github.com/GeniusYYF/nue-cli.git",
+        git: "https://github.com/GeniusYYF/nue-cli-template.git",
     },
     prompts: [
         {

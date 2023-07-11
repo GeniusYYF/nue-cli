@@ -3,7 +3,7 @@
 console.clear(); // 清屏
 const chalk = require("chalk");
 
-console.log(`\n========================== ${chalk.yellow("nue-cli")} ============================= ${chalk.yellowBright('★ ★ ★ ★')} ${chalk.yellow('☆')}\n`)
+console.log(`\n${chalk.redBright('❤')}========================== ${chalk.yellow("nue-cli")} ============================= ${chalk.yellowBright('★ ★ ★ ★')} ${chalk.yellow('☆')}\n`)
 
 const { program } = require("commander");
 const help = require("../lib/core/help");
